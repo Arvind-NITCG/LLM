@@ -68,7 +68,7 @@ Building an engine from scratch means watching it explode. Here are the major ar
 
 ---
 
-## 🚀 Future Plans: The Enterprise Pivot
+## Future Plans: The Enterprise Pivot
 This custom model successfully proved the mechanics of tensor mathematics and Transformer architecture. However, SLMs trained from scratch lack the billions of parameters required for dynamic logical reasoning. 
 
 The next evolution of this project abandons raw training and steps into modern Enterprise AI Architecture:
